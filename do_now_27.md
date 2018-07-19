@@ -11,4 +11,4 @@
 
 3. Add a second sprite.  Add the same script from step 2 above for the new sprite.
 
-4. What happens when you run?  Explain what you observe.
+4. What happens when you run?  Write an explanation of what you observed.
